@@ -1,18 +1,6 @@
 <h1 align="center">Hi, I'm Mahinsha Nazeer</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-
-- 🌱 I’m currently learning **Kubernetes**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mahinshanazeer](https://github.com/mahinshanazeer)
-
-- 📝 I regularly write articles on [https://medium.com/@mahinshanazeer](https://medium.com/@mahinshanazeer)
-
 - 💬 Ask me about **Linux and Cloud**
-
-- 📫 How to reach me **mahinshanazeer@proton.me**
-
-- 📄 Know about my experiences [https://mahinshanazeer.in/#about](https://mahinshanazeer.in/#about)
-
 - ⚡ Fun fact **Narcissist..**
 
 <h3 align="left">Connect with me:</h3>
