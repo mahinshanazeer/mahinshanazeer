@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mahinshah_13" target="blank"><img src="https://img.shields.io/twitter/follow/mahinshah_13?logo=twitter&style=for-the-badge" alt="mahinshah_13" /></a> </p>
 
-- 🔭 I’m currently working for [Accenture](https://www.accenture.com/in-en)
+- 🔭 I’m currently working as a **DevOps Engineer**
 
 - 🌱 I’m currently learning **Openshift**
 
-- 👨‍💻 All of my projects are available at [https://mahinshanazeer.dev/](https://mahinshanazeer.dev/)
+- 👨‍💻 All of my projects are available at [https://mahinshanazeer.dev/](https://github.com/mahinshanazeer)
 
 - 📝 I regularly write articles on [https://medium.com/@mahinshanazeer](https://medium.com/@mahinshanazeer)
 
