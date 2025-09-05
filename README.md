@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahinsha Nazeer</h1>
-<h3 align="center">A Linux Enthusiast!</h3>
+<h3 align="center">A DevOps Enthusiast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahinshanazeer&label=Profile%20views&color=0e75b6&style=flat" alt="mahinshanazeer" /> </p>
 
