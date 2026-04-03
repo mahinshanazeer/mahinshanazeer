@@ -138,9 +138,9 @@ philosophy: "Resilient. Compliant. Audit-ready. Always."
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahinshanazeer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahinshanazeer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahinshanazeer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mahinshanazeer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="180"/>
 </div>
 
 <div align="center">
@@ -156,7 +156,7 @@ philosophy: "Resilient. Compliant. Audit-ready. Always."
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahinshanazeer&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mahinshanazeer&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
 </div>
 
 ---
