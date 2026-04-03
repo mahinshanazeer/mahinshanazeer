@@ -153,10 +153,18 @@ philosophy: "Resilient. Compliant. Audit-ready. Always."
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahinshanazeer&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahinshanazeer&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahinshanazeer&theme=tokyonight" height="180"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahinshanazeer&theme=tokyonight" height="180"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahinshanazeer&theme=tokyonight&utcOffset=5.5" height="180"/>
 </div>
 
 ---
